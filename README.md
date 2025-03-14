@@ -2,7 +2,7 @@
 
 ## Desarrollador | Innovador | Aprendiz constante
 
-![Banner](https://placehold.co/800x200/e2e8f0/1e293b?text=Tu+Banner+Personalizado)
+![Banner](https://imagedelivery.net/ywtNy772PWwXecPtq2-tAQ/60426c77-1075-4a77-d6ef-45a3b95bf000/quality=100)
 
 ### Sobre mí
 
