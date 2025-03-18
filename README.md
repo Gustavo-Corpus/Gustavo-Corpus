@@ -43,7 +43,7 @@ Programador apasionado por la tecnología con experiencia en PHP, JavaScript, HT
     <td width="50%">
       <h3 align="center">Alrededor del Mundo</h3>
       <p align="center">
-        <a href="https://gustavo-corpus.github.io/web_project_around/src/index.html1" target="_blank">
+        <a href="https://gustavo-corpus.github.io/web_project_around/src/index.html" target="_blank">
           <img src="./Images/Around the US.png" alt="Proyecto 1"/>
         </a>
         <p align="center">
@@ -52,7 +52,7 @@ Programador apasionado por la tecnología con experiencia en PHP, JavaScript, HT
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Proyecto 2</h3>
+      <h3 align="center">Sistema de gestion de empleados</h3>
       <p align="center">
         <a href="https://github.com/Gustavo-Corpus/SS-Laravel" target="_blank">
           <img src="./Images/Sistema-Gestion-Empleados.png" alt="Proyecto 2"/>
