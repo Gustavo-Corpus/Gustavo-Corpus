@@ -44,10 +44,10 @@ Programador apasionado por la tecnología con experiencia en PHP, JavaScript, HT
       <h3 align="center">Alrededor del Mundo</h3>
       <p align="center">
         <a href="https://gustavo-corpus.github.io/repaso/" target="_blank">
-          <img src="./Images/Aprende-programacion.png" alt="Proyecto 1"/>
+          <img src="./Images/Repaso.png" alt="Proyecto 1"/>
         </a>
         <p align="center">
-          Una aplicación web tipo red social llamada "Around The U.S."
+          Una página web que sirve para repasar temas de programacion utilizando ejemplos sencillos y elementos visuales
         </p>
       </p>
     </td>
