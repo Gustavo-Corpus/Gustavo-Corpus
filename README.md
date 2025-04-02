@@ -41,7 +41,7 @@ Programador apasionado por la tecnología con experiencia en PHP, JavaScript, HT
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Alrededor del Mundo</h3>
+      <h3 align="center">Repaso en temas de programación</h3>
       <p align="center">
         <a href="https://gustavo-corpus.github.io/repaso/" target="_blank">
           <img src="./Images/Repaso.png" alt="Proyecto 1"/>
